@@ -3,4 +3,4 @@
 天津代表队雄起
 
 
-Greetings: Howdy | Hey | Hola | Bonjour | Konnichiwa | 吃了吗 ｜ Salve
+Greetings: `Howdy` | `Hey` | `Hola` | `Bonjour` | `Konnichiwa` | `吃了吗` ｜ `Salve`
